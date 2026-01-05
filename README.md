@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am Jalane, an undergraduate physics major. 
+
+🌠I am curious about the universe and the laws of nature. 
+
+🌇I love spending time in nature, specially watching sunsets(profile picture taken by me 🙂)
+
+Languages & tools: Python, Linux
+
+Currently learning: Machine learning, C++
